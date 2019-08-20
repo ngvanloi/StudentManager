@@ -1,0 +1,17 @@
+F:\File_C#\StudentManager\StudentManager\StudentManager\bin\Debug\StudentManager.exe.config
+E:\File_C#\StudentManager\StudentManager\StudentManager\bin\Debug\StudentManager.exe.config
+E:\File_C#\StudentManager\StudentManager\StudentManager\bin\Debug\StudentManager.exe
+E:\File_C#\StudentManager\StudentManager\StudentManager\bin\Debug\StudentManager.pdb
+E:\File_C#\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+E:\File_C#\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.AddStudent.resources
+E:\File_C#\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.ListStudent.resources
+E:\File_C#\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+E:\File_C#\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+E:\File_C#\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.CoreCompileInputs.cache
+E:\File_C#\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.exe
+E:\File_C#\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.pdb
+E:\File_C#\StudentManager\StudentManager\StudentManager\bin\Debug\EntityFramework.dll
+E:\File_C#\StudentManager\StudentManager\StudentManager\bin\Debug\EntityFramework.SqlServer.dll
+E:\File_C#\StudentManager\StudentManager\StudentManager\bin\Debug\EntityFramework.xml
+E:\File_C#\StudentManager\StudentManager\StudentManager\bin\Debug\EntityFramework.SqlServer.xml
+E:\File_C#\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.CopyComplete
